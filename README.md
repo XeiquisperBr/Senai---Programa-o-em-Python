@@ -1,2 +1,2 @@
-# Senai---Programa-o-em-Python
+# Senai---Programação-em-Python
 Projetos do curso "Programação em Python" - Senai Roberto Mange
